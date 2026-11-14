@@ -1,4 +1,4 @@
 Currículum web.
-[www.elliecolorado.com](www.elliecolorado.com)
-[www.elliecolorado.eu](www.elliecolorado.eu)
-[www.elliecolorado.es](www.elliecolorado.es)
+[elliecolorado.com](elliecolorado.com)
+[elliecolorado.eu](elliecolorado.eu)
+[elliecolorado.es](elliecolorado.es)
